@@ -1,4 +1,3 @@
-import { a } from "framer-motion/client"
 
 interface LanguageToggleProps {
   currentLang: 'es' | 'en'
