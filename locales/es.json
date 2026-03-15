@@ -1,0 +1,125 @@
+{
+  "nav": {
+    "workshops": "Talleres",
+    "artists": "Artistas",
+    "competition": "JAM",
+    "passes": "Pases",
+    "cta": "Reserva tu Cupo",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "Qualifier Oficial Latinoamérica",
+    "title_line1": "Bachata",
+    "title_line2": "Social Congress",
+    "date": "Junio 26 · 27 · 28, 2026",
+    "location": "Bogotá, Colombia",
+    "cta_primary": "Reserva Tu Cupo",
+    "cta_secondary": "Ver Programa",
+    "world_cup": "World Cup Qualifier Oficial 🏆"
+  },
+  "countdown": {
+    "days": "Días",
+    "hours": "Horas",
+    "minutes": "Min",
+    "seconds": "Seg"
+  },
+  "qualifier": {
+    "label": "World Cup Qualifier",
+    "title": "Tu Camino a Ginebra Comienza Aquí",
+    "body": "El Bachata Social Congress es sede oficial del Qualifier Latinoamericano del Bachata Social World Cup — la competencia mundial más importante de bachata social.",
+    "stats_1_num": "~180",
+    "stats_1_label": "Bailarines Elite",
+    "stats_2_num": "50+",
+    "stats_2_label": "Países",
+    "stats_3_num": "Oct 10-11",
+    "stats_3_label": "Final Mundial Ginebra",
+    "prize_title": "Si ganas, te llevas:",
+    "prize_1": "Título de Campeones del Qualifier Latinoamericano",
+    "prize_2": "Clasificación directa a la Final Mundial en Ginebra",
+    "prize_3": "USD $2.000 para apoyar tus vuelos",
+    "format_title": "Formato de Competencia",
+    "format": "Lead & Follow (Jack & Jill Social)",
+    "criteria": "Conexión · Musicalidad · Técnica · Improvisación"
+  },
+  "workshops": {
+    "label": "Formación",
+    "title": "3 Días de Bachata Social",
+    "subtitle": "+45 horas de formación · 3 noches de social",
+    "sensual_title": "Bachata Sensual",
+    "sensual_level": "Todos los Niveles",
+    "sensual_desc": "Domina la conexión, el abrazo y la expresión corporal en el estilo más íntimo de la bachata.",
+    "tradicional_title": "Bachata Tradicional",
+    "tradicional_level": "Todos los Niveles",
+    "tradicional_desc": "Vuelve a las raíces con el sabor dominicano. Footwork, timing y autenticidad cultural.",
+    "fusion_title": "Bachata Fusion",
+    "fusion_level": "Todos los Niveles",
+    "fusion_desc": "Explora la fusión creativa entre bachata y otros géneros. Sin límites, pura expresión."
+  },
+  "competition": {
+    "label": "Competencia",
+    "title": "BACHATA JAM SESSIONS",
+    "subtitle": "Tres categorías. Un solo campeón.",
+    "card1_title": "Mejor Lead y Mejor Follow",
+    "card1_category": "Única",
+    "card1_prize1": "Ser tallerista BSC 2027",
+    "card1_prize2": "Reconocimiento internacional",
+    "card1_prize3": "Trofeo oficial BSC",
+    "card2_title": "1 vs 1 Mixto",
+    "card2_category": "Única",
+    "card2_prize1": "Full Pass Bachatanama",
+    "card2_prize2": "Reconocimiento internacional",
+    "card2_prize3": "Trofeo oficial BSC",
+    "card3_title": "Viaje a Italia",
+    "card3_category": "Especial",
+    "card3_prize1": "Viaje todo incluido a Italia",
+    "card3_prize2": "Representación Latinoamérica",
+    "card3_prize3": "Trofeo oficial BSC",
+    "cta": "Inscribirme"
+  },
+  "artists": {
+    "label": "Lineup",
+    "title": "Artists & DJs",
+    "subtitle": "Los mejores de Latinoamérica y el mundo",
+    "role_instructor": "Instructor",
+    "role_dj": "DJ Oficial",
+    "role_performer": "Performer"
+  },
+  "dresscode": {
+    "label": "Dress Code",
+    "title": "Prepara tu Mejor Look para el Social",
+    "subtitle": "Cada noche tiene su propia energía"
+  },
+  "passes": {
+    "label": "Pases",
+    "title": "Elige Tu Experiencia",
+    "subtitle": "Precios en pesos colombianos (COP)",
+    "best_value": "Mejor Valor",
+    "cta": "Reservar Ahora",
+    "includes": "Incluye:",
+    "diamond_name": "Diamond Pass",
+    "diamond_desc": "La experiencia completa sin límites",
+    "gold_name": "Gold Pass",
+    "gold_desc": "Acceso premium a todos los eventos",
+    "day_name": "Day Pass",
+    "day_desc": "Acceso por un día completo",
+    "night_name": "Night Pass",
+    "night_desc": "Solo las noches de social"
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cuándo se anunciarán los hoteles oficiales?",
+    "a1": "Los hoteles oficiales del evento serán anunciados próximamente. Te recomendamos seguir nuestras redes sociales para estar al tanto de todas las novedades y tarifas especiales para participantes.",
+    "q2": "¿Cómo funciona la competencia World Cup Qualifier?",
+    "a2": "La competencia es en formato Jack & Jill Social (Lead & Follow). Los participantes son evaluados en conexión, musicalidad, técnica e improvisación. Los ganadores clasifican directamente a la Final Mundial en Ginebra, Suiza (Oct 10-11, 2026) y reciben USD $2.000 de apoyo para vuelos.",
+    "q3": "¿Qué incluye cada tipo de pase?",
+    "a3": "El Diamond Pass incluye acceso completo a todos los talleres (+45h), 3 noches de social, acceso a competencias y zona VIP. El Gold Pass incluye talleres y 3 noches de social. El Day Pass da acceso a talleres y social de un día específico. El Night Pass es únicamente para las noches de social.",
+    "q4": "¿Puedo participar si soy principiante?",
+    "a4": "¡Absolutamente! El BSC tiene talleres para todos los niveles, desde principiantes hasta avanzados. Los instructores adaptarán el contenido para que todos puedan disfrutar y aprender. La competencia tiene categorías abiertas y también niveles específicos."
+  },
+  "footer": {
+    "tagline": "El evento de bachata social más importante de Latinoamérica",
+    "contact": "Contacto",
+    "rights": "Todos los derechos reservados"
+  }
+}
