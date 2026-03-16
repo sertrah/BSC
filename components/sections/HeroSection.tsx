@@ -64,7 +64,7 @@ export default function HeroSection({ lang }: HeroSectionProps) {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/images/hero-bg.jpeg)",
+            backgroundImage: "url(/images/hero-bg.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center",
             opacity: 0.4,
